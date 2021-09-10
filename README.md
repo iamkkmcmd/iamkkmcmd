@@ -1,6 +1,6 @@
 
 <!-- Cover Photo-->
-[![iamkkmcmd's cover photo](./files/git_cover.png)](https://github.com/iamkkmcmd)
+[![iamkkmcmd's cover photo](./git_cover.png)](https://github.com/iamkkmcmd)
 
 <!-- About Github -->
 [![Repos Badge](https://badges.pufler.dev/repos/iamkkmcmd)](https://github.com/iamkkmcmd)
