@@ -22,7 +22,7 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 ## Projects
 - Sentiment Analysis of Sherlock Holmes Short Stories
-- Mathematics Behind Beauty of Natural Pattern
+- [Mathematics Behind Beauty of Natural Pattern](https://iamkkm-cmd.shinyapps.io/BeautyOfNature/)
 - Statistical Analysis of Literacy in India
 
 ## Github Stats
