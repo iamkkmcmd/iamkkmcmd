@@ -1,54 +1,12 @@
 
 <!-- Cover Photo-->
 [![iamkkmcmd's cover photo](./git_cover.png)](https://iamkkmcmd.github.io)
+[![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://iamkkmcmd.github.io)
 
 <!-- About Github -->
 [![Repos Badge](https://badges.pufler.dev/repos/iamkkmcmd)](https://github.com/iamkkmcmd)
 [![Years Badge](https://badges.pufler.dev/years/iamkkmcmd)](https://github.com/iamkkmcmd)
 [![Visits Badge](https://badges.pufler.dev/visits/iamkkmcmd/iamkkmcmd)](https://github.com/iamkkmcmd/iamkkmcmd)
-
-<div class="container">
-    <h1 class="neonText">
-          iamkkmcmd
-    </h1>
-
- </div>
- <style> 
- .neonText {
-  color: #fff;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-      0 0 151px #0fa;
-}
-
-/* Additional styling */
-  
-body {
-  font-size: 18px;
-  font-family: "Vibur", sans-serif;
-  background-color: #010a01;
-}  
-
-h1 {
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: 400;
-}
-  
-h1 {
-    font-size: 4.2rem;
-}
-
-.container {
-  margin-top: 20vh;
-}
-</style>
 
 <!--Social Profiles-->
 **Reach Me:** 
