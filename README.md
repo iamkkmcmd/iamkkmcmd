@@ -13,6 +13,7 @@
     </h1>
 
  </div>
+ <style> 
  .neonText {
   color: #fff;
   text-shadow:
@@ -47,6 +48,7 @@ h1 {
 .container {
   margin-top: 20vh;
 }
+</style>
 
 <!--Social Profiles-->
 **Reach Me:** 
