@@ -1,11 +1,13 @@
 
 <!-- Cover Photo-->
-[![iamkkmcmd's cover photo](./git_cover.png)](https://github.com/iamkkmcmd)
+[![iamkkmcmd's cover photo](./git_cover.png)](https://iamkkmcmd.github.io)
 
 <!-- About Github -->
 [![Repos Badge](https://badges.pufler.dev/repos/iamkkmcmd)](https://github.com/iamkkmcmd)
 [![Years Badge](https://badges.pufler.dev/years/iamkkmcmd)](https://github.com/iamkkmcmd)
 [![Visits Badge](https://badges.pufler.dev/visits/iamkkmcmd/iamkkmcmd)](https://github.com/iamkkmcmd/iamkkmcmd)
+
+[![Website Badge](https://img.shields.io/badge/Website-Profile-informational??style=for-the-badge&logo=website&logoColor=blueviolet&color=0D76A8)](https://iamkkmcmd.github.io)
 
 <!--Social Profiles-->
 **Reach Me:** 
