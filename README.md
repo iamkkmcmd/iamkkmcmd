@@ -1,6 +1,5 @@
 
 <!-- Cover Photo-->
-[![iamkkmcmd's cover photo](./git_cover.png)](https://iamkkmcmd.github.io)
 [![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://iamkkmcmd.github.io)
 
 <!-- About Github -->
