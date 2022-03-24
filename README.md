@@ -7,7 +7,7 @@
 [![Years Badge](https://badges.pufler.dev/years/iamkkmcmd)](https://github.com/iamkkmcmd)
 [![Visits Badge](https://badges.pufler.dev/visits/iamkkmcmd/iamkkmcmd)](https://github.com/iamkkmcmd/iamkkmcmd)
 
-[![Website Badge](https://img.shields.io/badge/Website-Profile-informational??style=for-the-badge&logo=website&logoColor=blueviolet&color=0D76A8)](https://iamkkmcmd.github.io)
+[![Website Badge](https://img.shields.io/badge/Website-Come-Here-informational??style=for-the-badge&logo=website&color=0D76A8)](https://iamkkmcmd.github.io)
 
 <!--Social Profiles-->
 **Reach Me:** 
