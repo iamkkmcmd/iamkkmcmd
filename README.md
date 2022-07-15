@@ -15,10 +15,9 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/iamkkmcmd)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/iamkkmcmd)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="iamkkmcmd" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/iamkkmcmd?trk=profile-badge">Krishnaknata Maity</a></div>
 
 ## Profile
-I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story.
+I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = 'https://iamkkmcmd.github.io/assets/krishnakanta_maity_resume.pdf'> Resume </a>.
 
 ## Projects
 - Sentiment Analysis of Sherlock Holmes Short Stories
