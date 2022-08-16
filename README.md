@@ -12,7 +12,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
   
 ## Profile
-I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = 'https://iamkkmcmd.github.io/assets/krishnakanta_maity_resume.pdf'> Resume </a>.
+I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './krishnakanta_maity_resume.pdf'> Resume </a>.
 
 ## Projects
 - [Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images](https://github.com/iamkkmcmd/ML_Project-Group_3ml)
@@ -58,7 +58,7 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 ## Github Stats
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" width="200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language"></a>
+  <img align="center" width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language"></a>
 <a href="https://github.com/iamkkmcmd">
-  <img width="480" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats">
+  <img width="480" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats">
 </a>
