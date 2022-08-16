@@ -5,13 +5,11 @@
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iamkkmcmd)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/iamkkmcmd)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iamkkmcmd)
-[![Github Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/iamkkmcmd)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/iamkkmcmd)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](8637510382)
 [![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkkmcmd)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
-<!--  https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white -->
   
 ## Profile
 I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = 'https://iamkkmcmd.github.io/assets/krishnakanta_maity_resume.pdf'> Resume </a>.
@@ -60,8 +58,8 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 ## Github Stats
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language" />
+  <img align="center" width="150" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language" />
 </a>
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" style="margin:0.7rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats" />
+  <img align="center" width="450" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats" />
 </a>
