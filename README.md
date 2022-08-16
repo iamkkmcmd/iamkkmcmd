@@ -12,7 +12,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
   
 ## Profile
-I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './krishnakanta_maity_resume.pdf'> Resume </a>.
+I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './academic_cv.pdf'> Resume </a>.
 
 ## Projects
 - [Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images](https://github.com/iamkkmcmd/ML_Project-Group_3ml)
