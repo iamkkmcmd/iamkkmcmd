@@ -5,11 +5,12 @@
 <!--Social Profiles-->
 **Reach Me:** 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://www.twitter.com/iamkkmcmd)
-[![Pinterest Badge](https://img.shields.io/badge/Pinterest-Profile-informational?style=flat&logo=pinterest&logoColor=white&color=0D76A8)](https://www.pinterest.com/iamkkmcmd)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/iamkkmcmd)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/iamkkmcmd)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iamkkmcmd)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iamkkmcmd)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/iamkkmcmd)
+[![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkkmcmd)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
+<!--  https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white -->
 
 ## Profile
 I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = 'https://iamkkmcmd.github.io/assets/krishnakanta_maity_resume.pdf'> Resume </a>.
@@ -26,6 +27,7 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 <a href="https://github.com/iamkkmcmd">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iamkkmcmd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Krishnakanta's GitHub Stats" />
 </a>
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue  -->
 
 ## Programming Skills 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=07aff7)
