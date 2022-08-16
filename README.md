@@ -60,8 +60,8 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 ## Github Stats
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact" alt="Top language" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language" />
 </a>
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" style="margin:0.5rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=vue" alt="Krishnakanta's GitHub Stats" />
+  <img align="center" style="margin:0.7rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=dark" alt="Krishnakanta's GitHub Stats" />
 </a>
