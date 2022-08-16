@@ -57,7 +57,8 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ## Github Stats
-<div href="https://github.com/iamkkmcmd">
-  <img align="center" width="200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language" />
-  <img width="500" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats" />
-</div>
+<a href="https://github.com/iamkkmcmd">
+  <img align="center" width="200" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&theme=dark" alt="Top language"></a>
+<a href="https://github.com/iamkkmcmd">
+  <img width="480" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077" alt="Krishnakanta's GitHub Stats">
+</a>
