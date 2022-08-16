@@ -2,14 +2,9 @@
 <!-- Cover Photo-->
 [![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://iamkkmcmd.github.io)
 
-<!-- About Github -->
-[![Repos Badge](https://badges.pufler.dev/repos/iamkkmcmd)](https://github.com/iamkkmcmd)
-[![Years Badge](https://badges.pufler.dev/years/iamkkmcmd)](https://github.com/iamkkmcmd)
-[![Visits Badge](https://badges.pufler.dev/visits/iamkkmcmd/iamkkmcmd)](https://github.com/iamkkmcmd/iamkkmcmd)
-
 <!--Social Profiles-->
 **Reach Me:** 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/iamkkmcmd)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://www.twitter.com/iamkkmcmd)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-Profile-informational?style=flat&logo=pinterest&logoColor=white&color=0D76A8)](https://www.pinterest.com/iamkkmcmd)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/iamkkmcmd)
