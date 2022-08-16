@@ -3,7 +3,6 @@
 [![iamkkmcmd's cover photo](./iamkkmcmd.gif)](https://iamkkmcmd.github.io)
 
 <!--Social Profiles-->
-**Reach Me:** 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iamkkmcmd)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iamkkmcmd)
@@ -38,12 +37,7 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 | Analytics | DataBase | Framework |
 |:----:|:----:|:----:|
-| ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   |
-
-## Analytics and Frameworks
-![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+| ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   |
 
 ## Packages
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,26 +47,20 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 ![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
-## IDE
+## IDE and Tools
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Office
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-
-## Tools
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=0887cc)
-![](https://img.shields.io/badge/Tools-Pagemaker-informational?style=flat&logo=adobepagemaker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Coreldraw-informational?style=flat&logo=coreldraw&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ## Github Stats
 <a href="https://github.com/iamkkmcmd">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.3rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact" alt="Top language" />
 </a>
 <a href="https://github.com/iamkkmcmd">
   <img align="center" style="margin:0.5rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=vue" alt="Krishnakanta's GitHub Stats" />
