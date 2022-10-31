@@ -37,9 +37,13 @@
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/iamkkmcmd)
 [![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkkmcmd)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd) -->
-  
-## Profile
-I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './iamkkmcmd_resume.pdf'> Resume </a>.
+
+</br>
+</br>
+
+## Hello, Devs!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>
+
+Krishnakanta this side, thanks for visit my profile. Check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>.
 
 ## Projects
 - [Assessing the Feasibility of Diagnosis of Pneumonia using Chest X-Ray Images](https://github.com/iamkkmcmd/ML_Project-Group_3ml)
@@ -52,7 +56,7 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=vue  -->
 
-## Programming Skills 
+## Programming Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px>
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -84,4 +88,9 @@ I am Krishnakanta, I have logical mind with a practical approach to problem solv
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ## Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077)
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
