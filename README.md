@@ -1,7 +1,7 @@
 
 <!-- Cover Photo-->
 <!-- [!(https://iamkkmcmd.github.io) -->
-![iamkkmcmd's cover photo](https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif)
+<img src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif" width="250" height="250"/>
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
