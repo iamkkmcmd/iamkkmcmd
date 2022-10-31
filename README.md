@@ -1,7 +1,4 @@
-<img align="right" width="250px" height="250px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif">
-
-</br>
-</br>
+<img align="right" width="400px" height="520px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif">
 
 <div display="inline-block">
  
@@ -38,8 +35,6 @@
 [![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkkmcmd)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd) -->
 
-</br>
-</br>
 
 ## Hello, Devs!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>
 
