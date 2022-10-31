@@ -1,26 +1,32 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif">
+<img align="right" width="250px" height="250px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif">
 
 </br>
 </br>
 
 <div dsplay="inline-block">
  
- <h1 align="left">Krishnakanta Maity</h1>
+ <h1 align="left">Krishnakanta Maity</h1>  
+  <a href="https://www.linkedin.com/in/iamkkmcmd">
+    <img width="50px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+ <a href="https://twitter.com/iamkkmcmd">
+    <img align="left" width="50px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
+  </a>
  <a href="https://www.github.com/iamkkmcmd/">
-    <img align="left" width="80px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
+    <img align="left" width="50px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/iamkkmcmd">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+ <a href="https://www.facebook.com/iamkkmcmd/">
+    <img align="left" width="50px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
+  </a> 
+ <a href="https://www.pinterest.com/iamkkmcmd/">
+    <img align="left" width="50px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="github" style="vertical-align:top;">
+  </a> 
+ <a href="https://www.instagram.com/iamkkmcmd/">
+    <img align="left" width="50px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="github" style="vertical-align:top;">
+  </a> 
 </div>
 
 
-<!-- Cover Photo-->
-<!-- [!(https://iamkkmcmd.github.io) -->
-<img src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif" width="250" height="250"/>
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
