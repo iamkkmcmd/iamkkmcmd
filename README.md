@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h1 align="left">Krishnakanta Maity</h1>  
  
@@ -56,25 +56,35 @@ Krishnakanta this side, thanks for visit my profile. Check out my <a href = './i
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=vue  -->
 
-## Programming Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px>
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-| Analytics | DataBase | Framework |
-|:----:|:----:|:----:|
-| ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   |
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px>
+<div display="inline-block"; text-align="center";>
+  
+</div>
+ 
+| Language | Analytics | DataBase | Framework |
+|:----:|:----:|:----:|:----:|
+| ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)| ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   |
 
 ## Packages
+<div display="inline-block">
+    <img height="50px" src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png"/>
+    <img height="50px" src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/ggplot2/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/rvest/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/stringr/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png"/>
+    <img height="50px" src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png"/>
+ </div>
+
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 ## IDE and Tools
 ![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
@@ -89,8 +99,9 @@ Krishnakanta this side, thanks for visit my profile. Check out my <a href = './i
 
 ## Github Stats
 <p align="center">
-<a href="https://github.com/jeniblodev">
+<a href="https://github.com/iamkkmcmd">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkkmcmd&theme=2077"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
