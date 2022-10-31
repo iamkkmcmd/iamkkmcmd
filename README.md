@@ -1,3 +1,22 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Krishnakanta Maity</h1>
+ <a href="https://www.github.com/iamkkmcmd/">
+    <img align="left" width="80px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/iamkkmcmd">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
 
 <!-- Cover Photo-->
 <!-- [!(https://iamkkmcmd.github.io) -->
