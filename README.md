@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/handshake.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif">
 
 </br>
 </br>
