@@ -1,7 +1,7 @@
 
 <!-- Cover Photo-->
 <!-- [!(https://iamkkmcmd.github.io) -->
-![iamkkmcmd's cover photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fai.plainenglish.io%2F23-data-science-techniques-you-should-know-61bc2c9d1b3a&psig=AOvVaw1dFqFeHJF6Re5D_ukuJ0EC&ust=1667288341733000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLi165n8ifsCFQAAAAAdAAAAABAs)
+![iamkkmcmd's cover photo](https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif)
 
 <!--Social Profiles-->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
