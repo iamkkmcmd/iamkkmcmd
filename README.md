@@ -6,6 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Krishnakanta Maity</h1>  
+ 
   <a href="https://www.linkedin.com/in/iamkkmcmd">
     <img width="50px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
@@ -29,13 +30,13 @@
 
 
 <!--Social Profiles-->
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iamkkmcmd)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/iamkkmcmd)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iamkkmcmd)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/iamkkmcmd)
 [![Facebook Badge](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamkkmcmd)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamkkmcmd) -->
   
 ## Profile
 I am Krishnakanta, I have logical mind with a practical approach to problem solving and drive to see things through completion. I am eager to learn and enjoy overcoming challenges. I have a genuine interest in data analysis and making significant story. Check out my <a href = './iamkkmcmd_resume.pdf'> Resume </a>.
