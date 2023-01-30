@@ -1,25 +1,26 @@
-<!-- <img align="right" width="400px" height="520px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif"> -->
-<p style="font-family: 'Elephant';" align="center">Krishnakanta Maity</p>
-<div display="inline-block" align="center">
+<div display="inline-block" align="center"> 
+ 
   <a href="https://www.linkedin.com/in/iamkkmcmd">
-    <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="50px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
  <a href="https://twitter.com/iamkkmcmd">
-    <img align="left" width="35px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
+    <img width="50px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
   </a>
  <a href="https://www.github.com/iamkkmcmd/">
-    <img align="left" width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
+    <img width="50px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
+   &emsp; &emsp; <a style="font-family:Kalam; font-size:50px">Krishnakanta Maity</a> &emsp; &emsp; 
  <a href="https://www.facebook.com/iamkkmcmd/">
-    <img align="left" width="35px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
+    <img width="50px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.instagram.com/iamkkmcmd/">
+    <img width="50px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="github" style="vertical-align:top;">
   </a> 
  <a href="https://www.pinterest.com/iamkkmcmd/">
-    <img align="left" width="35px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="github" style="vertical-align:top;">
-  </a> 
- <a href="https://www.instagram.com/iamkkmcmd/">
-    <img align="left" width="35px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="github" style="vertical-align:top;">
+    <img width="50px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="github" style="vertical-align:top;">
   </a> 
 </div>
+<hr>
 
 
 
