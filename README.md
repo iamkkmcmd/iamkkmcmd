@@ -1,23 +1,24 @@
+<div display="inline-block" align="center"> <h1 style="font-family: 'Elephant' font-size:100px"> Krishnakanta Maity </h1></div>
 <div display="inline-block" align="center"> 
- 
   <a href="https://www.linkedin.com/in/iamkkmcmd">
-    <img width="50px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
  <a href="https://twitter.com/iamkkmcmd">
-    <img width="50px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
   </a>
  <a href="https://www.github.com/iamkkmcmd/">
-    <img width="50px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
- &emsp; &emsp; <a style="font-size: 100px;"> Krishnakanta Maity</a> &emsp; &emsp; 
+<!--    <a style="width: 50px;"> Krishnakanta Maity </a>  -->
+<!--  <span style="font-size: 1000px;"> Krishna </span> -->
  <a href="https://www.facebook.com/iamkkmcmd/">
-    <img width="50px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook" style="vertical-align:top;">
   </a> 
   <a href="https://www.instagram.com/iamkkmcmd/">
-    <img width="50px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="github" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" style="vertical-align:top;">
   </a> 
  <a href="https://www.pinterest.com/iamkkmcmd/">
-    <img width="50px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="github" style="vertical-align:top;">
+    <img width="35px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="pinterest" style="vertical-align:top;">
   </a> 
 </div>
 <hr>
