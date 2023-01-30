@@ -9,7 +9,7 @@
  <a href="https://www.github.com/iamkkmcmd/">
     <img width="50px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
-   &emsp; &emsp; <a style="font-family:Elephant; font-size:250px">Krishnakanta Maity</a> &emsp; &emsp; 
+   &emsp; &emsp; <p style="font-family:Elephant; font-size:250px">Krishnakanta Maity</p> &emsp; &emsp; 
  <a href="https://www.facebook.com/iamkkmcmd/">
     <img width="50px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
   </a> 
