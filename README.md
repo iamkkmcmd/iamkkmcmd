@@ -2,8 +2,6 @@
 
 <div display="inline-block">
  
- <h1 align="center" style="font-family: 'Kaushan Script', cursive;">Krishnakanta Maity</h1>  
- 
   <a href="https://www.linkedin.com/in/iamkkmcmd">
     <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
@@ -13,6 +11,9 @@
  <a href="https://www.github.com/iamkkmcmd/">
     <img align="left" width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
+ 
+ <h1 align="center" style="font-family: 'Elephant';">Krishnakanta Maity</h1>
+ 
  <a href="https://www.facebook.com/iamkkmcmd/">
     <img align="left" width="35px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
   </a> 
@@ -37,7 +38,7 @@
 
 
 ## Hello, Devs!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>
-<p style="font-family: 'Kalam', cursive;"> Hi, I am Krishnakanta. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
+<p style='font-family: "Comic Sans MS", "Comic Sans", cursive;'> Hi, I am Krishnakanta. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
 
 ## Projects
 - [Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?](https://github.com/iamkkmcmd/SummerProject)
