@@ -1,6 +1,6 @@
 <!-- <img align="right" width="400px" height="520px" style="margin-top:-20px" src="https://cdn.rentechdigital.com/common_files/swipecart/Blog/machine-learning-vs-data-science-3.gif"> -->
-<p style="font-family: 'Elephant'; font-size:25px">Krishnakanta Maity</p>
-<div display="inline-block">
+<p style="font-family: 'Elephant';" align="center">Krishnakanta Maity</p>
+<div display="inline-block" align="center">
   <a href="https://www.linkedin.com/in/iamkkmcmd">
     <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
