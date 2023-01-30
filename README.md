@@ -9,7 +9,7 @@
  <a href="https://www.github.com/iamkkmcmd/">
     <img width="50px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
-   &emsp; &emsp; <a style="font-family:Kalam; font-size:250px">Krishnakanta Maity</a> &emsp; &emsp; 
+   &emsp; &emsp; <a style="font-family:Elephant; font-size:250px">Krishnakanta Maity</a> &emsp; &emsp; 
  <a href="https://www.facebook.com/iamkkmcmd/">
     <img width="50px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="github" style="vertical-align:top;">
   </a> 
@@ -35,7 +35,7 @@
 
 
 ## Hello, Devs!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>
-<p style='font-family: "Comic Sans MS", "Comic Sans", cursive;'> Hi, I am Krishnakanta. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
+<p style='font-family: "Kamal", cursive;'> Hi, I am Krishnakanta. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
 
 ## Projects
 - [Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?](https://github.com/iamkkmcmd/SummerProject)
