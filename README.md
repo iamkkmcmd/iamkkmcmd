@@ -63,7 +63,7 @@ Krishnakanta this side, thanks for visit my profile. Check out my <a href = './i
 | ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)| ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   |
 
 ## Packages
-<div style="justify-content: center;">
+<p align="center">
     <img height="50px" src="https://github.com/tidyverse/tidyverse.org/blob/master/static/images/hex-tidyverse.png"/>
     <img height="50px" src="https://github.com/tidyverse/dplyr/blob/main/man/figures/logo.png"/>
     <img height="50px" src="https://github.com/tidyverse/tidyr/blob/main/man/figures/logo.png"/>
@@ -73,7 +73,7 @@ Krishnakanta this side, thanks for visit my profile. Check out my <a href = './i
     <img height="50px" src="https://github.com/tidyverse/lubridate/blob/main/man/figures/logo.png"/>
     <img height="50px" src="https://github.com/tidyverse/purrr/blob/main/man/figures/logo.png"/>
     <img height="50px" src="https://github.com/tidyverse/readr/blob/main/man/figures/logo.png"/>
- </div>
+ </p>
 
 
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
