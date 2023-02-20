@@ -1,29 +1,40 @@
-<div display="inline-block" align="center"> <h1 style="font-family: 'Elephant' font-size:100px"> Krishnakanta Maity </h1></div>
+<div display="inline-block" align="center"> <h1 style="font-family: 'Elephant' font-size:100px"> Krishnakanta Maity </h1>
+
+</div>
 <div display="inline-block" align="center"> 
-  <a href="https://www.linkedin.com/in/iamkkmcmd">
+  <a href="https://www.linkedin.com/in/iamkkmcmd" title="Linkedin">
     <img width="35px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
- <a href="https://twitter.com/iamkkmcmd">
+ <a href="https://twitter.com/iamkkmcmd" title="Twitter">
     <img width="35px" src="https://img.icons8.com/nolan/64/twitter-circled.png" alt="twitter" style="vertical-align:top;">
   </a>
- <a href="https://www.github.com/iamkkmcmd/">
+ <a href="https://www.github.com/iamkkmcmd/" title="Github">
     <img width="35px" src="https://img.icons8.com/nolan/64/github.png" alt="github" style="vertical-align:top;">
   </a> 
-<!--    <a style="width: 50px;"> Krishnakanta Maity </a>  -->
-<!--  <span style="font-size: 1000px;"> Krishna </span> -->
- <a href="https://www.facebook.com/iamkkmcmd/">
+  &emsp;
+ <a href="https://iamkkmcmd.github.io/" title="Portfolio">
+    <img width="50px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/null/external-website-resume-flaticons-flat-flat-icons-2.png" alt="github" style="vertical-align:top;"/>
+  </a>
+ &emsp;
+ <a href="https://www.facebook.com/iamkkmcmd/" title="Facebook">
     <img width="35px" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="facebook" style="vertical-align:top;">
   </a> 
-  <a href="https://www.instagram.com/iamkkmcmd/">
+  <a href="https://www.instagram.com/iamkkmcmd/" title="Instagram">
     <img width="35px" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" style="vertical-align:top;">
   </a> 
- <a href="https://www.pinterest.com/iamkkmcmd/">
-    <img width="35px" src="https://img.icons8.com/nolan/64/pinterest.png" alt="pinterest" style="vertical-align:top;">
+ <a href="https://www.pinterest.com/iamkkmcmd/" title="Pinterest">
+    <img width="35px" src="https://img.icons8.com/nolan/64/pinterest.png" style="vertical-align:top;">
   </a> 
 </div>
 <hr>
 
-
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=iamkkmcmd&color=green)
+  [![GitHub followers](https://img.shields.io/github/followers/iamkkmcmd.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/iamkkmcmd?tab=followers)
+  
+  [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=iamkkmcmd&row=1)](https://github.com/iamkkmcmd/github-profile-trophy)
+  </div>
 
 <!--Social Profiles-->
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkkmcmd)
@@ -103,3 +114,8 @@
   <img height="180em"  width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamkkmcmd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<p align="center">
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+</p>
+
