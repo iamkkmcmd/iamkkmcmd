@@ -33,7 +33,6 @@
   ![](https://komarev.com/ghpvc/?username=iamkkmcmd&color=green)
   [![GitHub followers](https://img.shields.io/github/followers/iamkkmcmd.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/iamkkmcmd?tab=followers)
   
-  [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=iamkkmcmd&row=1)](https://github.com/iamkkmcmd/github-profile-trophy)
   </div>
 
 <!--Social Profiles-->
@@ -115,7 +114,13 @@
 </a>
 </p>
 
+<div align="center"> 
+  
+  [![Krishnakanta's github trophy](https://github-profile-trophy.vercel.app/?username=iamkkmcmd&theme=darkhub&no-bg=true)](https://github.com/iamkkmcmd/github-profile-trophy)
+  
+ </div>
+
 <p align="center">
-  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 </p>
 
