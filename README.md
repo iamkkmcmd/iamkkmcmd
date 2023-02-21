@@ -46,7 +46,7 @@
 
 
 ## Hello, Devs!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px>
-<p style='font-family: "Kamal", cursive;'> Hi, I am Krishnakanta. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
+<p style='font-family: "Kamal", cursive;'> Hi, I am <a href="https://iamkkmcmd.github.io/">Krishnakanta</a>. Thanks for visit my profile. I am constantly seeking to improve my skills and stay up-to-date with the latest technologies. On GitHub, you'll find my portfolio of projects that showcase my expertise in various programming languages and technologies. If you're interested in collaborating on a project or just want to say hi, feel free to reach out! Do, check out my <a href = './iamkkmcmd_resume.pdf'> resume </a>. </p>
 
 ## Projects
 - [Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?](https://github.com/iamkkmcmd/SummerProject)
@@ -116,7 +116,7 @@
 
 <div align="center"> 
   
-  [![Krishnakanta's github trophy](https://github-profile-trophy.vercel.app/?username=iamkkmcmd&theme=darkhub&no-bg=true)](https://github.com/iamkkmcmd/github-profile-trophy)
+  [![Krishnakanta's github trophy](https://github-profile-trophy.vercel.app/?username=iamkkmcmd&title=Stars,Followers,Repositories,Commits,Joined2020,PR&theme=darkhub&no-bg=true)](https://github.com/iamkkmcmd/github-profile-trophy)
   
  </div>
 
