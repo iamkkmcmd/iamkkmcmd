@@ -1,4 +1,7 @@
-<div display="inline-block" align="center"> <h1 style="font-family: 'Elephant' font-size:100px"> Krishnakanta Maity </h1>
+<!-- <div display="inline-block" align="center"> <h1 style="font-family: 'Elephant' font-size:100px"> Krishnakanta Maity </h1> -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2000&pause=1500&color=FFFFFF&background=1e242a&center=true&vCenter=true&random=false&width=420&lines=Welcome!+%F0%9F%92%9C;I+am+Krishnakanta%2C+aka.+krishna...;Nice+to+meet+you!;I+am+a+hobbyist+developer.;Check+out+my+website!;https%3A%2F%2Fwww.iamkkmcmd.github.io" alt="Typing SVG" /></a>
 
 </div>
 <div display="inline-block" align="center"> 
